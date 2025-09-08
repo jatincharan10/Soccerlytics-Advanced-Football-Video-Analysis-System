@@ -47,7 +47,7 @@ Follow these instructions to get a copy of the project up and running on your lo
 
 1.  *Clone the repository:*
     bash
-    git clone [https://github.com/your-username/FootRec.git](https://github.com/your-username/FootRec.git)
+    git clone [https://github.com/your-username/FootRec.git](https://github.com/your-username/Soccerlytics.git)
     cd FootRec
     
 
@@ -64,7 +64,7 @@ Follow these instructions to get a copy of the project up and running on your lo
     
 
 4.  *Set up project structure:*
-    -   Create a models/ directory and place your trained best.pt file inside it.
+    -   Create a models/ directory and place your trained best.pt file inside it.(link:https://drive.google.com/file/d/1JUfzLSnaltjZu7muNqdduKVOIuAcKsgR/view)
     -   Create an invd/ directory and place your input video file (e.g., test1.mp4) inside it.
 
 ### Usage
